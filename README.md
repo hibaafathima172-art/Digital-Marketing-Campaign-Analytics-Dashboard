@@ -146,7 +146,7 @@ Digital-Marketing-Campaign-Analytics-Dashboard/
 
 ## Data Disclaimer
 
-The dataset used in this project is mock data created for learning and portfolio demonstration. It does not represent the actual campaign performance of IIHS or any other organisation.
+The dataset used in this project is mock data created for learning and portfolio demonstration. It does not represent the actual campaign performance of  any other organisation.
 
 ---
 
