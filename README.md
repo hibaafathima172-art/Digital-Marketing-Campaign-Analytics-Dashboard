@@ -19,7 +19,7 @@ It helps communications and marketing teams monitor campaign reach, website traf
 The Executive Overview presents a summary of campaign performance, including impressions, clicks, sessions, registrations, engagement and conversion metrics.
 
 <p align="center">
-  <img src="Screenshots/page_1_executive_overview.png" alt="Executive Overview Dashboard" width="100%">
+  <img src="page_1_executive_overview.png" alt="Executive Overview Dashboard" width="100%">
 </p>
 
 ### 2. Channel Performance
@@ -27,7 +27,7 @@ The Executive Overview presents a summary of campaign performance, including imp
 The Channel Performance page compares LinkedIn, Instagram, Email, Organic Search and Website Banner across reach, traffic, engagement, registrations and cost efficiency.
 
 <p align="center">
-  <img src="Screenshots/page_2_channel_performance.png" alt="Channel Performance Dashboard" width="100%">
+  <img src="page_2_channel_performance.png" alt="Channel Performance Dashboard" width="100%">
 </p>
 
 ### 3. Landing Page and SEO Audit
@@ -35,7 +35,7 @@ The Channel Performance page compares LinkedIn, Instagram, Email, Organic Search
 The Landing Page and SEO Audit page analyses landing-page traffic, conversion performance, SEO issue types, severity and resolution status.
 
 <p align="center">
-  <img src="Screenshots/page_3_landing_page.png" alt="Landing Page and SEO Audit Dashboard" width="100%">
+  <img src="page_3_landing_page.png" alt="Landing Page and SEO Audit Dashboard" width="100%">
 </p>
 
 ---
